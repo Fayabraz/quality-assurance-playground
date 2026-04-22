@@ -1,0 +1,6 @@
+# QA Practice Lab
+This repository is dedicated to practicing Git workflows and storing quality assurance documentation.
+
+## Skills Applied
+- Version control (GitGitHub)
+- Branching and Merging strategies
